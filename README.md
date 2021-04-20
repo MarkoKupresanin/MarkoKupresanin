@@ -8,8 +8,8 @@ Some of my public bots are down here:
 * Gahyeon Bot: https://top.gg/bot/813634913885618197
 
 * SlapContinental Bot: https://sites.google.com/view/slapcontinentaldiscordbot/home (To use this bot you gotta join **The Wholesome Bunch** Discord Server)
-
-
+  
+  
 My stats or whatever
 
 
