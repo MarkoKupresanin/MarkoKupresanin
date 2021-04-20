@@ -5,9 +5,9 @@ I've got some public repositories here that are mostly Python and website projec
 I guess if you are still reading something about me is that I like to make Discord bots with Python!
 Some of my public bots are down here:
 
-Gahyeon Bot: https://top.gg/bot/813634913885618197
+* Gahyeon Bot: https://top.gg/bot/813634913885618197
 
-SlapContinental Bot: https://sites.google.com/view/slapcontinentaldiscordbot/home ||To use this bot you gotta join **The Wholesome Bunch Discord Server**||
+* SlapContinental Bot: https://sites.google.com/view/slapcontinentaldiscordbot/home (To use this bot you gotta join **The Wholesome Bunch** Discord Server)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoKupresanin&show_icons=true&theme=synthwave)
 
