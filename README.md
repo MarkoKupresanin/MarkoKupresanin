@@ -30,6 +30,6 @@ Some of my public bots are down here:
 
 
 
-print("java syntax xd funny")
+console.print("java syntax xd funny")
 
 <!--THEMES FOR THE WIDGET THING:    dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
