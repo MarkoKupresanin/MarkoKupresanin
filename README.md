@@ -23,7 +23,7 @@ Some of my public bots are down here:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoKupresanin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoKupresanin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoKupresanin&layout=compact&theme=tokyonight)
 
 
 
