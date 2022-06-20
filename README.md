@@ -2,10 +2,6 @@
 
 [My Personal Website](https://markokupresanin.github.io/KaptainKermit1/)  
 
-I've got some public repositories here that are mostly Python and website projects. But I've also got a lot of *secret* repos with cool code.
-
-I guess if you are still reading something about me is that I like to make Discord bots with Python!
-Some of my public bots are down here:
 
 #### My Skills:
 <p>
@@ -21,6 +17,12 @@ Some of my public bots are down here:
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 
+I've got some public repositories here that are mostly Python and web projects. But I've also got a lot of *secret* repos with very cool code.
+
+I guess if you are still reading something about me is that I like to make Discord bots with Python!
+Some of my public bots are down here:
+
+
 
    * Gahyeon Bot: https://top.gg/bot/813634913885618197
 ​​​​<a href="https://top.gg/bot/813634913885618197">
@@ -33,13 +35,7 @@ Some of my public bots are down here:
   
   
   
-#### My stats or whatever
-
+#### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoKupresanin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoKupresanin&layout=compact&theme=tokyonight)
-
-
-
-
 <!--THEMES FOR THE WIDGET THING:    dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
