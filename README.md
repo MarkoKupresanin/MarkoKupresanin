@@ -25,7 +25,7 @@ Some of my public bots are down here:
 
 
 
-   * Gahyeon Bot: https://top.gg/bot/813634913885618197
+   * Gahyeon Bot: https://markokupresanin.github.io/GahyeonBotWebsite/
 ​​​​<a href="https://top.gg/bot/813634913885618197">
   <img src="https://top.gg/api/widget/813634913885618197.svg">
 </a>
