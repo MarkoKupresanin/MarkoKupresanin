@@ -17,6 +17,7 @@
 <br/>- Adobe: https://express.adobe.com/sp/
 </p>
 
+<hr/>
 <!--https://github.com/Ileriayo/markdown-badges-->
 
 I've got some public repositories here that are mostly Python and web projects. But I've also got a lot of *secret* repos with very cool code.
