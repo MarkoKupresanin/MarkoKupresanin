@@ -33,7 +33,6 @@ Some of my public bots are down here:
 </a>
   
   
-#### Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoKupresanin&show_icons=true&theme=tokyonight)
+<!-- #### Stats --> // btw when i add this back keep the markdown at the beginning!
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoKupresanin&show_icons=true&theme=tokyonight)-->
 <!--THEMES FOR THE WIDGET THING:    dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
