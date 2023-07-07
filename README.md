@@ -25,7 +25,7 @@ I've got some public repositories here that are mostly Python and web projects. 
 I guess if you are still reading something about me is that I like to make Discord bots with Python!
 My most popular being Gahyeon Bot
 
-   * Gahyeon Bot: https://markokupresanin.github.io/GahyeonBotWebsite/
+   * https://markokupresanin.github.io/GahyeonBotWebsite/
 <a href="https://top.gg/bot/813634913885618197">
   <img src="https://top.gg/api/widget/813634913885618197.svg">
 </a>
