@@ -17,7 +17,7 @@
 <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC.svg?style=for-the-badge&logo=Bitwarden&logoColor=white" style="height:20px;"/>
 </p>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+<!-- are you looking for badges for your profile? Look no further: https://home.aveek.io/GitHub-Profile-Badges/ -->
 <hr/>
 <!--https://github.com/Ileriayo/markdown-badges-->
 
