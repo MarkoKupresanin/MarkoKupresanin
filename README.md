@@ -15,6 +15,7 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC.svg?style=for-the-badge&logo=Bitwarden&logoColor=white" style="height:20px;"/>
+<img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" style="height:20px;" />
 </p>
 <!-- are you looking for badges for your profile? Look no further: https://home.aveek.io/GitHub-Profile-Badges/ -->
 <hr/>
