@@ -1,4 +1,7 @@
-### 👋 Hey welcome to my GitHub profile
+### 👋 Hey!
+My name is Marko Kupresanin, I am currently a Computer Science student at the <a target="_blank" href="https://www.cs.wisc.edu/">University of Wisconsin – Madison</a> and I enjoy learning about virtually any element of Computer Science from physical components, software development, and Cybersecurity. 
+
+Some of the code I have developed at my leisure are on this GitHub, totally all over the place as expected.
 
 <!-- [My Personal Website](https://markokupresanin.github.io/KaptainKermit1/)  -->
 
@@ -23,16 +26,13 @@
 <hr/>
 <!--https://github.com/Ileriayo/markdown-badges-->
 
-I've got some public repositories here that are mostly Python and web projects. But I've also got a lot of *secret* repos with very cool code.
+If you are still reading... my past involves developing numerous Discord Bots in Python, including <strong>Gahyeon Bot</strong> (<a href="https://top.gg/bot/813634913885618197" target="_blank">Top.GG</a>, <a href="https://markokupresanin.github.io/GahyeonBotWebsite/" target="_blank">Website (not mobile responsive)</a>), <strong>CDH Event Bot</strong> <a href="https://discord.gg/g7ve87TaTX" target="_blank">CDH Server (to use it)</a>, and <strong>SlapContinental Bot</strong> (<a href="https://discord.gg/CBjYz7pxMC" target="_blank">Server</a>)
 
-I guess if you are still reading something about me is that I like to make Discord bots with Python!
-My most popular being Gahyeon Bot
-
-   * https://markokupresanin.github.io/GahyeonBotWebsite/
+<!--   * https://markokupresanin.github.io/GahyeonBotWebsite/
 <a href="https://top.gg/bot/813634913885618197">
   <img src="https://top.gg/api/widget/813634913885618197.svg">
 </a>
-  
+-->
   
 <!-- #### Stats // btw when i add this back keep the markdown at the beginning! -->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoKupresanin&show_icons=true&theme=tokyonight)-->
