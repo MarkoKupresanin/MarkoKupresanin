@@ -1,6 +1,6 @@
 ### 👋 Hey welcome to my GitHub profile
 
-[My Personal Website](https://markokupresanin.github.io/KaptainKermit1/)  
+<!-- [My Personal Website](https://markokupresanin.github.io/KaptainKermit1/)  -->
 
 
 #### My Skills:
