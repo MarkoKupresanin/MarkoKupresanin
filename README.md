@@ -1,3 +1,5 @@
+<!-- Christmas -->
+# 🎄 &nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp; 🎄
 ### 👋 Hey!
 My name is Marko Kupresanin, I am currently a Computer Science student at the <a target="_blank" href="https://www.cs.wisc.edu/">University of Wisconsin – Madison</a> and I enjoy learning about virtually any element of Computer Science from physical components, software development, and Cybersecurity. 
 
@@ -27,6 +29,8 @@ Some of the code I have developed at my leisure are on this GitHub, totally all 
 <!--https://github.com/Ileriayo/markdown-badges-->
 
 If you are still reading... my past involves developing numerous Discord Bots in Python, including <strong>Gahyeon Bot</strong> (<a href="https://top.gg/bot/813634913885618197" target="_blank">Top.GG</a>, <a href="https://markokupresanin.github.io/GahyeonBotWebsite/" target="_blank">Website (not mobile responsive)</a>), <strong>CDH Event Bot</strong> (<a href="https://discord.gg/g7ve87TaTX" target="_blank">CDH Server (to use it)</a>, <a href="https://github.com/MarkoKupresanin/cdhcounting">Code</a>), and <strong>SlapContinental Bot</strong> (<a href="https://discord.gg/CBjYz7pxMC" target="_blank">Server</a>)
+<!-- Halloween -->
+<!-- # 🎃 &nbsp;&nbsp;&nbsp; 🎃 &nbsp;&nbsp;&nbsp; 🎃 &nbsp;&nbsp;&nbsp; 🎃 &nbsp;&nbsp;&nbsp; 🎃 -->
 
 <!--   * https://markokupresanin.github.io/GahyeonBotWebsite/
 <a href="https://top.gg/bot/813634913885618197">
