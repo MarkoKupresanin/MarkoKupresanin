@@ -1,5 +1,5 @@
 <!-- Christmas -->
-# 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄
+<!--# 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎄-->
 ### 👋 Hey!
 My name is Marko Kupresanin, I am currently a Computer Science student at the <a target="_blank" href="https://www.cs.wisc.edu/">University of Wisconsin – Madison</a> and I enjoy learning about virtually any element of Computer Science from physical components, software development, and Cybersecurity. 
 
