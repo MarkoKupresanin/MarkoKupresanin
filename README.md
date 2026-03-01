@@ -3,6 +3,11 @@
 ### 👋 Hey!
 My name is Marko Kupresanin, I am currently a Computer Science student at the <a target="_blank" href="https://www.cs.wisc.edu/">University of Wisconsin – Madison</a> and I enjoy learning about virtually any element of Computer Science from physical components, software development, and Cybersecurity. 
 
+Right now I am interning at <a href="https://tdstelecom.com/">TDS Telecom</a>
+on the IT Infrastructure Cloud Engineering team where I work with Puppet to
+orchestrate our nationwide infrastrucutre, and Python to develop automation
+tools for internal consumers.
+
 Some of the code I have developed at my leisure are on this GitHub, totally all over the place as expected.
 
 <!-- [My Personal Website](https://markokupresanin.github.io/KaptainKermit1/)  -->
