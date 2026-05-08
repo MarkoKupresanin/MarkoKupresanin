@@ -5,7 +5,7 @@ My name is Marko Kupresanin, I am currently a Computer Science student at the <a
 
 Right now I am interning at <a href="https://tdstelecom.com/">TDS Telecom</a>
 on the IT Infrastructure Cloud Engineering team where I work with Puppet to
-orchestrate our nationwide infrastrucutre, and Python to develop automation
+orchestrate our nationwide infrastructure, and Python to develop automation
 tools for internal consumers.
 
 Some of the code I have developed at my leisure are on this GitHub, totally all over the place as expected.
